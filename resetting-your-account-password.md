@@ -2,7 +2,7 @@
 
 All members are able to request a password reminder if they need to reset their password. When a password reset is requested, an email will be sent to the user instructing them to click a link which will take them to a page where they can enter in a new password.
 
-![](SF-2426/EduGuide4.png)
+![](/SF-2426/EduGuide4.png)
 
 1. Click on the link “Forgot Password?”
 
